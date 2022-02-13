@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Dada/static/css/main.ea1455b2.chunk.css",
+    "main.js": "/Dada/static/js/main.53a53eab.chunk.js",
+    "main.js.map": "/Dada/static/js/main.53a53eab.chunk.js.map",
+    "runtime-main.js": "/Dada/static/js/runtime-main.c9681331.js",
+    "runtime-main.js.map": "/Dada/static/js/runtime-main.c9681331.js.map",
+    "static/js/2.2c4be4db.chunk.js": "/Dada/static/js/2.2c4be4db.chunk.js",
+    "static/js/2.2c4be4db.chunk.js.map": "/Dada/static/js/2.2c4be4db.chunk.js.map",
+    "static/js/3.c30fbaf1.chunk.js": "/Dada/static/js/3.c30fbaf1.chunk.js",
+    "static/js/3.c30fbaf1.chunk.js.map": "/Dada/static/js/3.c30fbaf1.chunk.js.map",
+    "index.html": "/Dada/index.html",
+    "static/css/main.ea1455b2.chunk.css.map": "/Dada/static/css/main.ea1455b2.chunk.css.map",
+    "static/js/2.2c4be4db.chunk.js.LICENSE.txt": "/Dada/static/js/2.2c4be4db.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c9681331.js",
+    "static/js/2.2c4be4db.chunk.js",
+    "static/css/main.ea1455b2.chunk.css",
+    "static/js/main.53a53eab.chunk.js"
+  ]
+}
